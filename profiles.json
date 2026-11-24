@@ -1,0 +1,37 @@
+[
+    {
+        "Id":  "default",
+        "Name":  "bakajdu Pro+",
+        "IsDefault":  true,
+        "BoxName":  "",
+        "Note":  ""
+    },
+    {
+        "Id":  "google_2",
+        "Name":  "mikocok Pro-",
+        "IsDefault":  false,
+        "BoxName":  "Google2",
+        "Note":  ""
+    },
+    {
+        "Id":  "google_3",
+        "Name":  "rafkafound11 Pro+",
+        "IsDefault":  false,
+        "BoxName":  "Google3",
+        "Note":  ""
+    },
+    {
+        "Id":  "win_akungoogle1",
+        "Name":  "mygeminiku6 Pro-",
+        "IsDefault":  false,
+        "BoxName":  "AkunGoogle1",
+        "Note":  ""
+    },
+    {
+        "Id":  "win_akungoogle4",
+        "Name":  "Akun Google 4",
+        "IsDefault":  false,
+        "BoxName":  "AkunGoogle4",
+        "Note":  ""
+    }
+]
